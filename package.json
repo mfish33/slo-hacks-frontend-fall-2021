@@ -1,0 +1,29 @@
+{
+  "name": "slo-hacks-frontend-fall-2021",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@mindspace-io/react": "^1.7.0",
+    "highcharts": "^9.3.1",
+    "highcharts-react-official": "^3.1.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-spinners": "^0.11.0",
+    "react-switch": "^6.0.0",
+    "rxjs": "^7.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@vitejs/plugin-react": "^1.0.0",
+    "autoprefixer": "^10.4.0",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^2.2.19",
+    "typescript": "^4.3.2",
+    "vite": "^2.6.4"
+  }
+}
